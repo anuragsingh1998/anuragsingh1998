@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anuragsingh1998
+- 👋 Hi, I’m @Anurag Singh
 - 👀 I’m interested in the world of code
 - 🌱 I’m currently learning ...Python
 - 📫 How to reach me ...anuragsingh99120@gmail.com
