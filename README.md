@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anurag Singh
 - 👀 I’m interested in the world of code
-- 🌱 I’m currently learning ...Python
+- 🌱 I’m currently learning ...Linux and it's architecture and basic commands
 - 📫 How to reach me ...anuragsingh99120@gmail.com
 
 <!---
